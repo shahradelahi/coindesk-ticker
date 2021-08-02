@@ -1,0 +1,22 @@
+{
+   "name": "coindesk-ticker",
+   "version": "1.0.0",
+   "description": "A PHP library to get realtime prices from CoinDesk.",
+   "keywords": [
+	  "coindesk",
+	  "ticker",
+	  "crypto",
+	  "price",
+	  "php"
+   ],
+   "repository": {
+	  "type": "git",
+	  "url": "git+https://github.com/shahradelahi/coindesk-ticker.git"
+   },
+   "author": "Shahrad Elahi (https://github.com/shahradelahi)",
+   "license": "MIT",
+   "bugs": {
+	  "url": "https://github.com/shahradelahi/coindesk-ticker/issues"
+   },
+   "homepage": "https://github.com/shahradelahi/coindesk-ticker#readme"
+}

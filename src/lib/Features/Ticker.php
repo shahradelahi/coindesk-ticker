@@ -28,6 +28,7 @@ class Ticker
      */
     private function Initialization(array $settings): void
     {
+        ini_set('max_execution_time', '0');
         $this->CloseTime = $settings['close_time'] ?: 0;
     }
 
